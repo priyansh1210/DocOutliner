@@ -101,14 +101,6 @@ text
 - **Language Detection**: <100ms per document
 - **Accuracy**: >90% heading detection across tested documents
 
-### Language Support Matrix
-| Language Family | Languages | Script | RTL Support |
-|----------------|-----------|---------|-------------|
-| European | English, Spanish, French, German, Italian, Portuguese | Latin | No |
-| Slavic | Russian, Ukrainian, Bulgarian, Serbian | Cyrillic | No |
-| Middle Eastern | Arabic, Persian, Hebrew | Arabic/Hebrew | Yes |
-| South Asian | Hindi, Bengali, Tamil, Telugu, Gujarati | Devanagari/Indic | No |
-| East Asian | Chinese, Japanese, Korean | CJK | No |
 
 ### Dependencies
 PyMuPDF (1.23.5) - PDF parsing and text extraction
