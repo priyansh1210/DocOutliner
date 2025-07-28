@@ -1,0 +1,27 @@
+{
+    "rtl_languages": ["ar", "he", "fa", "ur", "yi"],
+    "ideographic_languages": ["zh", "ja", "ko"],
+    "latin_script": [
+      "en", "es", "fr", "de", "it", "pt", "nl", "sv", "da", "no", "fi", 
+      "pl", "cs", "sk", "hu", "ro", "bg", "hr", "sr", "sl", "et", "lv", "lt"
+    ],
+    "cyrillic_script": ["ru", "uk", "bg", "sr", "mk", "be"],
+    "arabic_script": ["ar", "fa", "ur", "ps", "sd"],
+    "devanagari_script": ["hi", "mr", "ne", "sa"],
+    "indic_scripts": ["bn", "gu", "kn", "ml", "or", "pa", "ta", "te"],
+    "thai_script": ["th", "lo"],
+    "ethiopic_script": ["am", "ti"],
+    "georgian_script": ["ka"],
+    "armenian_script": ["hy"],
+    "hebrew_script": ["he", "yi"],
+    "common_heading_keywords": {
+      "en": ["chapter", "section", "part", "introduction", "conclusion", "abstract", "summary"],
+      "es": ["capítulo", "sección", "parte", "introducción", "conclusión", "resumen"],
+      "fr": ["chapitre", "section", "partie", "introduction", "conclusion", "résumé"],
+      "de": ["kapitel", "abschnitt", "teil", "einleitung", "zusammenfassung"],
+      "zh": ["章", "节", "部分", "引言", "结论", "摘要"],
+      "ar": ["فصل", "قسم", "جزء", "مقدمة", "خاتمة", "ملخص"],
+      "hi": ["अध्याय", "खंड", "भाग", "परिचय", "निष्कर्ष", "सारांश"]
+    }
+  }
+  

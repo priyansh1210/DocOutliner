@@ -1,0 +1,35 @@
+{
+    "universal": [
+      "^\\d+\\.?\\s+.*",
+      "^\\d+\\.\\d+\\.?\\s+.*",
+      "^\\d+\\.\\d+\\.\\d+\\.?\\s+.*",
+      "^[IVX]+\\.?\\s+.*",
+      "^[A-Z]\\.?\\s+.*"
+    ],
+    "en": [
+      "^\\s*Chapter\\s+\\d+",
+      "^\\s*Section\\s+\\d+",
+      "^\\s*(Introduction|Conclusion|Abstract|Summary|References)"
+    ],
+    "es": [
+      "^\\s*Capítulo\\s+\\d+",
+      "^\\s*(Introducción|Conclusión|Resumen|Referencias)"
+    ],
+    "fr": [
+      "^\\s*Chapitre\\s+\\d+",
+      "^\\s*(Introduction|Conclusion|Résumé|Références)"
+    ],
+    "de": [
+      "^\\s*Kapitel\\s+\\d+",
+      "^\\s*(Einleitung|Zusammenfassung|Literatur)"
+    ],
+    "zh": [
+      "^\\s*第\\s*\\d+\\s*章",
+      "^\\s*(引言|结论|摘要|参考文献)"
+    ],
+    "ar": [
+      "^\\s*الفصل\\s+\\d+",
+      "^\\s*(المقدمة|الخاتمة|الملخص|المراجع)"
+    ]
+  }
+  
